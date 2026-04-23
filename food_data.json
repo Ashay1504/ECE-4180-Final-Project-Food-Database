@@ -1,0 +1,13 @@
+{
+  "foods": {
+    "apple": 0.52,
+    "banana": 0.89,
+    "orange": 0.47,
+    "grapes": 0.67,
+    "chicken_breast": 1.65,
+    "snickers": 4.88,
+    "mars_bar": 4.49,
+    "almonds": 5.79,
+    "boiled_egg": 1.55
+  }
+}
