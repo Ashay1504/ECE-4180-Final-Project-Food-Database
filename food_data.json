@@ -4,10 +4,18 @@
     "banana": 0.89,
     "orange": 0.47,
     "grapes": 0.67,
+    "carrot": 0.41,
+    "tomato": 0.18,
+    "cucumber": 0.15,
+    "broccoli": 0.34,
     "chicken_breast": 1.65,
+    "boiled_egg": 1.55,
     "snickers": 4.88,
     "mars_bar": 4.49,
+    "m_and_m": 4.92,
+    "twix": 5.02,
     "almonds": 5.79,
-    "boiled_egg": 1.55
+    "walnuts": 6.54,
+    "cashews": 5.53
   }
 }
