@@ -4,6 +4,7 @@
     "banana": 0.89,
     "orange": 0.47,
     "grapes": 0.67,
+    "mango": 0.60,
     "carrot": 0.41,
     "tomato": 0.18,
     "cucumber": 0.15,
@@ -16,6 +17,13 @@
     "twix": 5.02,
     "almonds": 5.79,
     "walnuts": 6.54,
-    "cashews": 5.53
+    "cashews": 5.53,
+    "lays": 5.36,
+    "doritos": 5.00,
+    "cheetos": 5.60,
+    "yogurt": 0.59,
+    "granola_bar": 4.71,
+    "protein_bar": 3.80,
+    "beef_jerky": 4.10
   }
 }
